@@ -1,10 +1,9 @@
 streamlit
-gtts
-os
-speechrecognition
+gTTS
+SpeechRecognition
 pydub
-io
 rembg
 deepface
 numpy
 pillow
+
