@@ -1,0 +1,10 @@
+streamlit
+gtts
+os
+speechrecognition
+pydub
+io
+rembg
+deepface
+numpy
+pillow
