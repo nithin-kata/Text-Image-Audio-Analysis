@@ -1,9 +1,8 @@
 streamlit
-gTTS
+gtts
 SpeechRecognition
 pydub
 rembg
 deepface
 numpy
 pillow
-
